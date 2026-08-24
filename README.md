@@ -24,19 +24,18 @@ I am a ** Web Developer and DevOps Engineer** with a passion for designing respo
 
 ### ☁️ Cloud & Infrastructure
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible" />
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible" />
 </p>
 
 ### 🐳 Containers & Orchestration
 <p>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" width="48" height="48" />
-<img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="48" height="48" />
-</p>
+
 
 ### 🔁 CI/CD & Automation
 <p>
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,github" />
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,github" />
 </p>
 
 ### 📊 Observability & Monitoring
