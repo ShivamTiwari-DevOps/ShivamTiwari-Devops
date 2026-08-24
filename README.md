@@ -1,9 +1,9 @@
 # Hi 👋, I'm Shivam Tiwari from India 🇮🇳
 
-### Full-Stack Web Developer & DevOps Engineer | Automating Infrastructure | Building Scalable Web Apps
+###  Web Developer & DevOps Engineer | Automating Infrastructure | Building Scalable Web Apps
 
 <p align="left">
-  <!-- Profile Visitor Counter Badge -->
+  <!-- Dynamic Profile Visitor Counter -->
   <img src="https://komarev.com" alt="Profile Views Counter" />
 </p>
 
@@ -11,13 +11,13 @@
 
 ## 👨‍💻 About Me
 
-I am a **Full-Stack Web Developer and DevOps Engineer** with a passion for designing responsive applications and operating production-grade cloud environments. My focus is on bridging the gap between clean code and **scalability, reliability, security, and automation** across the delivery lifecycle.
+I am a ** Web Developer and DevOps Engineer** with a passion for designing responsive applications and operating production-grade cloud environments. My focus is on bridging the gap between clean code and **scalability, reliability, security, and automation** across the delivery lifecycle.
 
 ---
 
 ## 🚀 What I Do
 
-- 🌐 **Web Development:** Crafting fast, responsive full-stack applications (Frontend + Backend).
+- 🌐 **Web Development:** Crafting fast, responsive web applications (Frontend ).
 - ☁️ **Cloud & Infrastructure:** Provisioning secure cloud infrastructure using Infrastructure as Code (IaC).
 - 🐳 **Containerization:** Architecting and operating containerized application environments.
 - 🔁 **CI/CD Automation:** Designing robust deployment pipelines for software and infrastructure.
@@ -28,50 +28,36 @@ I am a **Full-Stack Web Developer and DevOps Engineer** with a passion for desig
 ## 🧰 Tech Stack & Tools
 
 ### 🌐 Web Development
-<p align="left">
-  <img src="https://githubusercontent.com" alt="React" width="40" height="40"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="Node.js" width="40" height="40"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="Express" width="40" height="40"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="Next.js" width="40" height="40"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="JavaScript" width="40" height="40"/>
-</p>
+![React](https://shields.io)
+![JavaScript](https://shields.io)
 
 ### ☁️ Cloud & Infrastructure
-<p align="left">
-  <img src="https://githubusercontent.com" alt="AWS" width="40" height="40"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="Terraform" width="40" height="40"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="Linux" width="40" height="40"/>
-</p>
+![AWS](https://shields.io)
+![Terraform](https://shields.io)
+![Linux](https://shields.io)
 
 ### 🐳 Containers & Orchestration
-<p align="left">
-  <img src="https://githubusercontent.com" alt="Docker" width="40" height="40"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="Kubernetes" width="40" height="40"/>
-</p>
+![Docker](https://shields.io)
+![Kubernetes](https://shields.io)
 
 ### 🔁 CI/CD & Automation
-<p align="left">
-  <img src="https://githubusercontent.com" alt="GitHub Actions" width="40" height="40"/>
-</p>
+![GitHub Actions](https://shields.io)
 
 ### 📊 Observability & Monitoring
-<p align="left">
-  <img src="https://githubusercontent.com" alt="Prometheus" width="40" height="40"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="Grafana" width="40" height="40"/>
-</p>
+![Prometheus](https://shields.io)
+![Grafana](https://shields.io)
 
 ### 🗄 Version Control & Scripting
-<p align="left">
-  <img src="https://githubusercontent.com" alt="Git" width="40" height="40"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="Bash" width="40" height="40"/>
-</p>
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+![Bash](https://shields.io)
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://vercel.app" alt="Shivam's GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
   <img src="https://vercel.app" alt="Top Languages" width="48%" />
 </p>
 
@@ -83,7 +69,7 @@ I am a **Full-Stack Web Developer and DevOps Engineer** with a passion for desig
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="shivam2908mzp@gmail.com">
     <img src="https://shields.io" alt="Email" />
   </a>
 </p>
