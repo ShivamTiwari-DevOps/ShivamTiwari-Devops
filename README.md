@@ -12,7 +12,7 @@ I am a ** Web Developer and DevOps Engineer** with a passion for designing respo
 
 ## 🚀 What I Do
 
-- 🌐 **Web Development:** Crafting fast, responsive full-stack applications (Frontend + Backend).
+- 🌐 **Web Development:** Crafting fast, responsive web applications (Frontend ).
 - ☁️ **Cloud & Infrastructure:** Provisioning secure cloud infrastructure using Infrastructure as Code (IaC).
 - 🐳 **Containerization:** Architecting and operating containerized application environments.
 - 🔁 **CI/CD Automation:** Designing robust deployment pipelines for software and infrastructure.
@@ -23,31 +23,32 @@ I am a ** Web Developer and DevOps Engineer** with a passion for designing respo
 ## 🧰 Tech Stack & Tools
 
 ### 🌐 Web Development
-![React](https://shields.io)
-![NodeJS](https://shields.io)
-![Express.js](https://shields.io)
-![Next-JS](https://shields.io)
+<img src="https://simpleicons.org" alt="React" width="40" height="40"/> &nbsp;
+<img src="https://simpleicons.org" alt="Node.js" width="40" height="40"/> &nbsp;
+<img src="https://simpleicons.org" alt="Express" width="40" height="40"/> &nbsp;
+<img src="https://simpleicons.org" alt="Next.js" width="40" height="40"/> &nbsp;
+<img src="https://simpleicons.org" alt="JavaScript" width="40" height="40"/>
 
 ### ☁️ Cloud & Infrastructure
-![AWS](https://shields.io)
-![Terraform](https://shields.io)
-![Linux](https://shields.io)
+<img src="https://simpleicons.org" alt="AWS" width="40" height="40"/> &nbsp;
+<img src="https://simpleicons.org" alt="Terraform" width="40" height="40"/> &nbsp;
+<img src="https://simpleicons.org" alt="Linux" width="40" height="40"/>
 
 ### 🐳 Containers & Orchestration
-![Docker](https://shields.io)
-![Kubernetes](https://shields.io)
+<img src="https://simpleicons.org" alt="Docker" width="40" height="40"/> &nbsp;
+<img src="https://simpleicons.org" alt="Kubernetes" width="40" height="40"/>
 
 ### 🔁 CI/CD & Automation
-![GitHub Actions](https://shields.io)
+<img src="https://simpleicons.org" alt="GitHub Actions" width="40" height="40"/>
 
 ### 📊 Observability & Monitoring
-![Prometheus](https://shields.io)
-![Grafana](https://shields.io)
+<img src="https://simpleicons.org" alt="Prometheus" width="40" height="40"/> &nbsp;
+<img src="https://simpleicons.org" alt="Grafana" width="40" height="40"/>
 
 ### 🗄 Version Control & Scripting
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![Bash](https://shields.io)
+<img src="https://simpleicons.org" alt="Git" width="40" height="40"/> &nbsp;
+<img src="https://simpleicons.org" alt="GitHub" width="40" height="40"/> &nbsp;
+<img src="https://simpleicons.org" alt="Bash" width="40" height="40"/>
 
 ---
 
@@ -57,7 +58,7 @@ I am a ** Web Developer and DevOps Engineer** with a passion for designing respo
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
-  <a href="shivam2908mzp@gmail.com">
+  <a href="Shivam2908mzp@gmail.com.com">
     <img src="https://shields.io" alt="Email" />
   </a>
 </p>
