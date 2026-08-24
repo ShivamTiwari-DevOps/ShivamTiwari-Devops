@@ -20,35 +20,47 @@ I am a ** Web Developer and DevOps Engineer** with a passion for designing respo
 
 ---
 
-## 🧰 Tech Stack & Tools
-
-### 🌐 Web Development
-<img src="https://simpleicons.org" alt="React" width="40" height="40"/> &nbsp;
-<img src="https://simpleicons.org" alt="Node.js" width="40" height="40"/> &nbsp;
-<img src="https://simpleicons.org" alt="Express" width="40" height="40"/> &nbsp;
-<img src="https://simpleicons.org" alt="Next.js" width="40" height="40"/> &nbsp;
-<img src="https://simpleicons.org" alt="JavaScript" width="40" height="40"/>
+## 🧰 DevOps Toolchain
 
 ### ☁️ Cloud & Infrastructure
-<img src="https://simpleicons.org" alt="AWS" width="40" height="40"/> &nbsp;
-<img src="https://simpleicons.org" alt="Terraform" width="40" height="40"/> &nbsp;
-<img src="https://simpleicons.org" alt="Linux" width="40" height="40"/>
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible" />
+</p>
 
 ### 🐳 Containers & Orchestration
-<img src="https://simpleicons.org" alt="Docker" width="40" height="40"/> &nbsp;
-<img src="https://simpleicons.org" alt="Kubernetes" width="40" height="40"/>
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" width="48" height="48" />
+<img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="48" height="48" />
+</p>
 
 ### 🔁 CI/CD & Automation
-<img src="https://simpleicons.org" alt="GitHub Actions" width="40" height="40"/>
+<p>
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,github" />
+</p>
 
 ### 📊 Observability & Monitoring
-<img src="https://simpleicons.org" alt="Prometheus" width="40" height="40"/> &nbsp;
-<img src="https://simpleicons.org" alt="Grafana" width="40" height="40"/>
+<p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
+<img height="48" src="https://cdn.simpleicons.org/fluentd/0B5FFF" />
+</p>
 
-### 🗄 Version Control & Scripting
-<img src="https://simpleicons.org" alt="Git" width="40" height="40"/> &nbsp;
-<img src="https://simpleicons.org" alt="GitHub" width="40" height="40"/> &nbsp;
-<img src="https://simpleicons.org" alt="Bash" width="40" height="40"/>
+### 🔐 Security & DevSecOps
+<p>
+<img src="https://avatars.githubusercontent.com/u/49598846?s=200&v=4" width="48" height="48" />
+<img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="48" height="48" />
+<img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Vault.svg" width="48" height="48" />
+</p>
+
+### 🗄️ Version Control & Collaboration
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+</p>
+
+### 🖥️ Scripting & OS
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,linux,powershell" />
+</p>
 
 ---
 
